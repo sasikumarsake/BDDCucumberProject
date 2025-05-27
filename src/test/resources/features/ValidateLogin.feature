@@ -8,3 +8,4 @@ And validateTitle to be "OrangeHRM"
 When user enters text into textbox "usernameTextbox" "Admin"
 And user enters text into textbox "passwordTextbox" "admin123"
 And user clicks "loginButton"
+Then user valiateTitle to be
